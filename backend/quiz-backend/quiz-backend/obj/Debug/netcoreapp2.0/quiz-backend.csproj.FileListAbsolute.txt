@@ -1,0 +1,13 @@
+C:\Users\mranto\Desktop\Web Applications\quiz\backend\quiz-backend\quiz-backend\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\mranto\Desktop\Web Applications\quiz\backend\quiz-backend\quiz-backend\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\mranto\Desktop\Web Applications\quiz\backend\quiz-backend\quiz-backend\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\mranto\Desktop\Web Applications\quiz\backend\quiz-backend\quiz-backend\bin\Debug\netcoreapp2.0\quiz-backend.deps.json
+C:\Users\mranto\Desktop\Web Applications\quiz\backend\quiz-backend\quiz-backend\bin\Debug\netcoreapp2.0\quiz-backend.runtimeconfig.json
+C:\Users\mranto\Desktop\Web Applications\quiz\backend\quiz-backend\quiz-backend\bin\Debug\netcoreapp2.0\quiz-backend.runtimeconfig.dev.json
+C:\Users\mranto\Desktop\Web Applications\quiz\backend\quiz-backend\quiz-backend\bin\Debug\netcoreapp2.0\quiz-backend.dll
+C:\Users\mranto\Desktop\Web Applications\quiz\backend\quiz-backend\quiz-backend\bin\Debug\netcoreapp2.0\quiz-backend.pdb
+C:\Users\mranto\Desktop\Web Applications\quiz\backend\quiz-backend\quiz-backend\obj\Debug\netcoreapp2.0\quiz-backend.csprojAssemblyReference.cache
+C:\Users\mranto\Desktop\Web Applications\quiz\backend\quiz-backend\quiz-backend\obj\Debug\netcoreapp2.0\quiz-backend.AssemblyInfoInputs.cache
+C:\Users\mranto\Desktop\Web Applications\quiz\backend\quiz-backend\quiz-backend\obj\Debug\netcoreapp2.0\quiz-backend.AssemblyInfo.cs
+C:\Users\mranto\Desktop\Web Applications\quiz\backend\quiz-backend\quiz-backend\obj\Debug\netcoreapp2.0\quiz-backend.dll
+C:\Users\mranto\Desktop\Web Applications\quiz\backend\quiz-backend\quiz-backend\obj\Debug\netcoreapp2.0\quiz-backend.pdb
